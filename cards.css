@@ -1,0 +1,17 @@
+#textarea {
+  width: 200px;
+  height: 50px;
+}
+button {
+  display: block;
+}
+
+.card {
+  display: inline-block;
+  width: 150px;
+  height: 250px;
+  margin: .25em;
+  background-color: #FBBC05;
+  border: 2px solid #FBBC05;
+  border-radius: 15px;
+}
